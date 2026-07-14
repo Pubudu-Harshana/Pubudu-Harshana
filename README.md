@@ -1,127 +1,136 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=200&section=header&text=Pubudu%20Harshana&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20CS%20Undergraduate%20%7C%20AI%20Explorer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:2196F3&height=220&section=header&text=PUBUDU%20HARSHANA&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20CS%20Undergraduate%20•%20Builder%20of%20INFAVOUR%20SOLUTIONS&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=2196F3&center=true&vCenter=true&width=600&lines=Computer+Science+Undergraduate;Full-Stack+Developer;UI%2FUX+%26+3D+Web+Enthusiast;Building+INFAVOUR+SOLUTIONS;AI+%26+Local+LLM+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=2196F3&center=true&vCenter=true&width=650&lines=Computer+Science+Undergraduate;Full-Stack+%7C+MERN+%7C+3D+Web+Developer;Founder+%40+INFAVOUR+SOLUTIONS;Exploring+Local+LLMs+%26+AI+Agents" alt="Typing SVG" />
 </a>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=pubuduh&label=Profile%20Views&color=2196F3&style=flat-square" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/pubuduh?label=Followers&style=flat-square&color=2196F3" alt="followers"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="status"/>
-</p>
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=pubuduh&label=PROFILE%20VIEWS&color=2196F3&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/pubuduh?label=FOLLOWERS&style=for-the-badge&color=2196F3" alt="followers"/>
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-success?style=for-the-badge" alt="status"/>
 
 </div>
 
----
+<br/>
 
-### 👋 About Me
+## 🧭 About Me
 
-I'm a Computer Science & Technology undergraduate at **Uva Wellassa University, Sri Lanka**, and the founder of **INFAVOUR SOLUTIONS** — a digital media agency offering web development, graphic design, and video editing services. I love merging solid technical architecture with creative, intentional design.
+```yaml
+name: Pubudu Harshana
+role: Full-Stack Developer & CS Undergraduate
+university: Uva Wellassa University, Sri Lanka
+degree: BSc (Hons) Computer Science & Technology
+company: Founder @ INFAVOUR SOLUTIONS — web dev, graphic design, video editing
+position: Head of Public Visibility, IEEE Student Branch (UWU)
+currently_building: Full-stack web apps + local LLM-powered agents
+focus: Clean architecture × intentional design
+```
 
-- 🎓 BSc (Hons) Computer Science & Technology — Uva Wellassa University
-- 📢 Head of Public Visibility, IEEE Student Branch (UWU)
-- 🏢 Founder, INFAVOUR SOLUTIONS
-- 💻 Building full-stack web apps + exploring local LLM integrations
-- 🌱 Currently deepening skills in system-level programming & AI agent workflows
+<br/>
 
----
+## ⚙️ Tech Arsenal
 
-### 🛠️ Tech Stack
+<div align="center">
 
-<p align="left">
-  <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Frontend & Design -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Backend & Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  &nbsp;&nbsp;
-  <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" alt="ollama" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=js,java,python,php,html,css,react,threejs,figma,ps,nodejs,express,mongodb,mysql,git,github,vscode&theme=dark" alt="tech stack" />
 
----
+</div>
 
-### 🏆 Featured Projects
+<br/>
 
-<table>
+## 🚀 Featured Work
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌐 [FreshLync.live](#)**
-Full-stack MERN app for fresh food distribution — complete DB management, REST API integration, deployed on cloud.
-`MongoDB` `Express` `React` `Node.js`
+### 🌐 [FreshLync.live](#)
+Full-stack MERN marketplace for fresh food distribution — end-to-end DB management, REST APIs, cloud-deployed.
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**✨ [pubuduharshana.me](https://pubuduharshana.me)**
-Immersive 3D personal portfolio built with Three.js & WebGL for an interactive, modern experience.
-`Three.js` `WebGL` `JavaScript`
+### ✨ [pubuduharshana.me](https://pubuduharshana.me)
+Immersive 3D personal portfolio built on Three.js & WebGL — interactive, modern, and performant.
+
+![Three.js](https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/-WebGL-990000?style=flat-square&logo=webgl&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🗺️ RoutePro**
-Travel route planning web app with dynamic data handling.
-`React` `PHP` `MySQL`
+### 🗺️ RoutePro
+Dynamic travel route planning platform with real-time data handling.
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🍕 AI Pizza Shop Agent**
-Memory-based, privacy-first customer assistant powered by local LLMs (Ollama) for menu queries & orders.
-`Ollama` `Local LLM` `Python`
+### 🍕 AI Pizza Shop Agent
+Privacy-first, memory-based ordering assistant powered by local LLMs via Ollama.
+
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pubuduh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Pubudu's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduh&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="42%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pubuduh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pubuduh&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduh&theme=radical&hide_border=true" alt="GitHub Streak" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pubuduh&theme=tokyonight&hide_border=true" alt="streak stats" width="70%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduh&theme=redical&hide_border=true" width="90%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pubuduh&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="activity graph"/>
 </div>
 
----
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=pubuduh&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" width="95%"/>
+</div>
 
-### 📫 Connect With Me
+<br/>
 
-<p align="center">
-<a href="https://pubuduharshana.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="mailto:pubuduhar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
+## 🐍 Contribution Snake
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:2196F3&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://raw.githubusercontent.com/pubuduh/pubuduh/output/github-contribution-grid-snake.svg" alt="snake animation" width="95%"/>
+</div>
+
+> ⚡ Renders once you add the [Platane/snk](https://github.com/Platane/snk) GitHub Action to auto-generate this on your own repo.
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2196F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pubuduharshana.me)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pubuduhar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
